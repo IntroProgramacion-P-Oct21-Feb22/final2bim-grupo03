@@ -1,6 +1,7 @@
 # 2 Bimestre 
 ## Proyecto Python
-
+-Leonardo Chuquimarca
+-Abraham Paul Ayala Jimenez 
 ***
 
 ### Problemática a resolver
